@@ -1,0 +1,3 @@
+@Imports RWA_WebsiteMain.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
